@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cemvc
+- 👨🏻‍🏫 I'm computer science teacher in Turkey 
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning datascience and ethical hacking.
 - 💞️ I’m looking to collaborate on network fundamentals, data science, data security issues
